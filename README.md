@@ -1,4 +1,8 @@
-## Hi there 👋
+## Olá! Meu nome é *Rafael Santos* 👋
+
+<!--GitStats-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafsplayDev&hide=stars,prs,issues,contribs&show_icons=true&icon_color=FF9C00&bg_color=212121&title_color=fff8f8&text_color=90908e&locale=pt-br&hide_border=true&hide_rank=true&line_height=47)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafsplayDev&layout=compact&bg_color=212121&title_color=fff8f8&text_color=90908e&locale=pt-br&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **RafsplayDev/RafsplayDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
