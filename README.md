@@ -22,3 +22,7 @@
 <img src="https://raw.githubusercontent.com/RafsplayDev/RafsplayDev/output/snake.svg" alt="Snake animation" />
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/RafsplayDev/count.svg?"  />
+</div>
