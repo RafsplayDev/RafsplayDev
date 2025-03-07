@@ -21,10 +21,12 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafsplayDev&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=false&point=ff9c00&bg_color=0D1117&color=ffffff&line=ff9c00&area_color=ff9c00&custom_title=Gr%C3%A1fico%20de%20contribui%C3%A7%C3%B5es" height="300" alt="activity-graph graph"  />
 </div>
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <img src="https://raw.githubusercontent.com/RafsplayDev/RafsplayDev/output/snake.svg" alt="Snake animation" />
 
+<br><br>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 
