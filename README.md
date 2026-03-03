@@ -66,3 +66,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RafsplayDev&color=FF9C00&style=flat-square&label=Visitas+ao+perfil" />
 </p>
+
+---
+
+## 🐍 Cobra dos Commits
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RafsplayDev/RafsplayDev/output/snake.svg" alt="cobra dos commits" />
+</p>
