@@ -1,29 +1,68 @@
-## Olá! Meu nome é *Rafael Santos* 👋
-_Criador da **PanelPro**_
-<!--Tecnologias-->
-![Static Badge](https://img.shields.io/badge/JAVASCRIPT-social?style=for-the-badge&logo=javascript&logoColor=fff&color=0D1117)
-![Static Badge](https://img.shields.io/badge/HTML-social?style=for-the-badge&logo=html5&logoColor=fff&color=0D1117)
-![Static Badge](https://img.shields.io/badge/CSS-social?style=for-the-badge&logo=css&logoColor=fff&color=0D1117)
-![Static Badge](https://img.shields.io/badge/REACT-social?style=for-the-badge&logo=react&logoColor=fff&color=0D1117)
-![Static Badge](https://img.shields.io/badge/GIT-social?style=for-the-badge&logo=git&logoColor=fff&color=0D1117)
-![Static Badge](https://img.shields.io/badge/GITHUB-social?style=for-the-badge&logo=github&logoColor=fff&color=0D1117)
-![Static Badge](https://img.shields.io/badge/BOOTSTRAP-social?style=for-the-badge&logo=bootstrap&logoColor=fff&color=0D1117)
-![Static Badge](https://img.shields.io/badge/TAILWIND.CSS-social?style=for-the-badge&logo=tailwindcss&logoColor=fff&color=0D1117)
-![Static Badge](https://img.shields.io/badge/NODE.JS-social?style=for-the-badge&logo=nodedotjs&logoColor=fff&color=0D1117)
-![Static Badge](https://img.shields.io/badge/MYSQL-social?style=for-the-badge&logo=mysql&logoColor=fff&color=0D1117)
+<h1 align="center">Olá! Eu sou o Rafael Santos 👋</h1>
 
-<!--GitStats-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafsplayDev&hide=stars,prs,issues,contribs&show_icons=true&icon_color=FF9C00&bg_color=0d1117&title_color=fff8f8&text_color=90908e&locale=pt-br&hide_border=true&hide_rank=true&line_height=47)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafsplayDev&card_width=400&layout=compact&bg_color=0d1117&title_color=fff8f8&text_color=90908e&locale=pt-br&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=RafsplayDev&theme=transparent&hide_border=true&locale=pt_BR&card_width=900&background=0D1117&ring=FF9C00&fire=EB5454&sideNums=FF9C00&stroke=FFF8F8&currStreakNum=EB5454&currStreakLabel=FFF8F8&dates=90908E&sideLabels=FFF8F8)](https://git.io/streak-stats)
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafsplayDev&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=false&point=ff9c00&bg_color=0D1117&color=ffffff&line=ff9c00&area_color=ff9c00&custom_title=Gr%C3%A1fico%20de%20contribui%C3%A7%C3%B5es" height="300" alt="activity-graph graph"  />
-</div>
+<p align="center">
+  <b>Desenvolvedor Full Stack</b> · Criador da <a href="https://github.com/RafsplayDev">PanelPro</a>
+  <br/>
+  Apaixonado por transformar ideias em produtos reais
+</p>
 
-<img src="https://raw.githubusercontent.com/RafsplayDev/RafsplayDev/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/rafael-santos-de-santana-65558b282/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/rafsplay_dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@Rafsplay_Dev"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/RafsplayDev/count.svg?"  />
-</div>
+## 🚀 Sobre mim
+
+- 🔭 Atualmente desenvolvendo a **PanelPro** — sistema de gestão para pequenos negócios
+- 🌱 Aprofundando conhecimentos em **TypeScript**, **React** e arquitetura de sistemas
+- 💡 Gosto de criar soluções práticas para problemas do dia a dia
+- 📍 São Carlos, SP — Brasil
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=RafsplayDev&show_icons=true&theme=radical&hide_border=true&locale=pt-br&hide=stars,prs,issues,contribs" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafsplayDev&layout=compact&theme=radical&hide_border=true&locale=pt-br" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafsplayDev&theme=radical&hide_border=true&locale=pt_BR" />
+</p>
+
+---
+
+## 📌 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| 🍕 [RafsplayPizzariaPro](https://github.com/RafsplayDev/RafsplayPizzariaPro) | Sistema completo de gestão para pizzarias | JavaScript, Node.js |
+| 📰 [clone-tabnews](https://github.com/RafsplayDev/clone-tabnews) | Implementação do TabNews com foco em aprendizado | JavaScript |
+| 💼 [portfolio](https://github.com/RafsplayDev/portfolio) | Meu portfólio pessoal como desenvolvedor | TypeScript |
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RafsplayDev&color=FF9C00&style=flat-square&label=Visitas+ao+perfil" />
+</p>
