@@ -1,76 +1,102 @@
-<h1 align="center">Olá! Eu sou o Rafael Santos 👋</h1>
+<!--
+  ┌────────────────────────────────────────────────────────────────┐
+  │  README de perfil do GitHub · Panel Pro                          │
+  │                                                                  │
+  │  COMO USAR:                                                      │
+  │  1. Crie um repositório com o MESMO nome do seu usuário          │
+  │     (ex.: github.com/seu-usuario/seu-usuario).                   │
+  │  2. Coloque este README.md na raiz dele.                         │
+  │  3. Copie também a pasta  assets/  (banner + logos) para a raiz. │
+  │  4. Substitua os campos marcados com  «...»  pelos seus dados.   │
+  └────────────────────────────────────────────────────────────────┘
+-->
 
-<p align="center">
-  <b>Desenvolvedor Full Stack</b> · Criador da <a href="https://github.com/RafsplayDev">PanelPro</a>
-  <br/>
-  Apaixonado por transformar ideias em produtos reais
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rafael-santos-de-santana-65558b282/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/rafsplay_dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@Rafsplay_Dev"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-</p>
+  <img src="assets/banner-github.png" alt="Panel Pro — software de operações para delivery" width="100%" />
 
----
+  <br /><br />
 
-## 🚀 Sobre mim
+  <!-- Logo com troca automática claro/escuro -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-mark-panel.png" width="72" />
+    <img src="assets/logo-mark-gold.png" alt="Panel Pro" width="72" />
+  </picture>
 
-- 🔭 Atualmente desenvolvendo a **PanelPro** — sistema de gestão para pequenos negócios
-- 🌱 Aprofundando conhecimentos em **TypeScript**, **React** e arquitetura de sistemas
-- 💡 Gosto de criar soluções práticas para problemas do dia a dia
-- 📍 São Carlos, SP — Brasil
+  <h1>Olá, eu sou Rafael Santos</h1>
 
----
+  <p><b>Desenvolvedor(a) e criador(a) da Panel Pro</b> — software de operações para quem vive de delivery.</p>
 
-## 🛠️ Tecnologias & Ferramentas
+  <a href="https://github.com/RafsplayDev"><img src="https://img.shields.io/badge/GitHub-111110?style=for-the-badge&logo=github&logoColor=BA8331" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/«seu-linkedin»"><img src="https://img.shields.io/badge/LinkedIn-111110?style=for-the-badge&logo=linkedin&logoColor=BA8331" alt="LinkedIn" /></a>
+  <a href="mailto:«seu@email.com»"><img src="https://img.shields.io/badge/Email-111110?style=for-the-badge&logo=gmail&logoColor=BA8331" alt="Email" /></a>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+</div>
 
----
+<br />
 
-## 📊 Estatísticas
+## Sobre mim
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=RafsplayDev&show_icons=true&theme=radical&hide_border=true&locale=pt-br&hide=stars,prs,issues,contribs" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafsplayDev&layout=compact&theme=radical&hide_border=true&locale=pt-br" />
-</p>
+Gosto de transformar operação bagunçada em software claro e rápido. Hoje meu foco é construir a **Panel Pro** — repensando as ferramentas que um delivery usa de verdade, todo dia. Fora do código, «algo seu aqui».
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafsplayDev&theme=radical&hide_border=true&locale=pt_BR" />
-</p>
+|  |  |
+| :-- | :-- |
+| **Construindo** | Panel Pro |
+| **Função** | Full-stack & Produto |
+| **Base** | Brasil |
+| **Foco** | Delivery & operações |
+
+<br />
 
 ---
 
-## 📌 Projetos em Destaque
+<div align="center">
+  <sub>O PROJETO EM DESTAQUE</sub>
+  <h2>Panel Pro</h2>
+  <p><i>“Tudo o que um delivery realmente usa, repensado.”</i></p>
+</div>
 
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| 🍕 [RafsplayPizzariaPro](https://github.com/RafsplayDev/RafsplayPizzariaPro) | Sistema completo de gestão para pizzarias | JavaScript, Node.js |
-| 📰 [clone-tabnews](https://github.com/RafsplayDev/clone-tabnews) | Implementação do TabNews com foco em aprendizado | JavaScript |
-| 💼 [portfolio](https://github.com/RafsplayDev/portfolio) | Meu portfólio pessoal como desenvolvedor | TypeScript |
+A **Panel Pro** é uma plataforma brasileira de operações para delivery. A ideia é direta: reunir as funcionalidades que um delivery *realmente usa* no dia a dia — repensadas para serem o mais práticas e otimizadas possível — e tornar um software de qualidade acessível a qualquer empresa, não só às grandes redes.
+
+![Premium](https://img.shields.io/badge/Premium-BA8331?style=flat-square&labelColor=BA8331&color=BA8331)
+![Minimalista](https://img.shields.io/badge/Minimalista-3C3C36?style=flat-square)
+![Moderno](https://img.shields.io/badge/Moderno-3C3C36?style=flat-square)
+![Qualidade acessível](https://img.shields.io/badge/Qualidade%20acess%C3%ADvel-BA8331?style=flat-square&labelColor=BA8331&color=BA8331)
+
+### O que o painel faz
+
+| Módulo | O que resolve |
+| :-- | :-- |
+| **Pedidos** | Entrada de pedidos em tempo real, do balcão ao delivery, em um fluxo só. |
+| **Cozinha** | A cozinha enxerga o que preparar e em que ordem — sem papel, sem correria. |
+| **Entregas** | Despache entregadores e acompanhe cada rota até a porta do cliente. |
+| **Cardápio** | Gestão de cardápio, preços e disponibilidade em segundos. |
+
+<br />
+
+> ### A promessa
+> **Tudo o que um delivery realmente usa, repensado.**
+> Gerencie pedidos, cozinha e entregadores em um só painel — rápido, claro e pensado para a operação real.
+>
+> **Rápido** · ações em um toque, sem telas de espera &nbsp;•&nbsp; **Claro** · status por cor, nada de ruído &nbsp;•&nbsp; **Operação real** · feito para o balcão cheio, não para o slide.
+
+<br />
+
+### Uma amostra do painel <sub>· valores ilustrativos</sub>
+
+| Pedidos hoje | Ticket médio | Tempo médio |
+| :--: | :--: | :--: |
+| **128** ▲ 12% | **R$ 62,40** ▲ 4% | **28 min** |
+
+<br />
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RafsplayDev&color=FF9C00&style=flat-square&label=Visitas+ao+perfil" />
-</p>
-
----
-
-## 🐍 Cobra dos Commits
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RafsplayDev/RafsplayDev/output/snake.svg" alt="cobra dos commits" />
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-mark-panel.png" width="28" />
+    <img src="assets/logo-mark-gold.png" alt="" width="28" />
+  </picture>
+  <br />
+  <sub>Perfil construído com o design system da <b>Panel&nbsp;Pro</b>.</sub>
+</div>
