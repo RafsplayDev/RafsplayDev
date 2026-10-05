@@ -1,102 +1,82 @@
-<!--
-  ┌────────────────────────────────────────────────────────────────┐
-  │  README de perfil do GitHub · Panel Pro                          │
-  │                                                                  │
-  │  COMO USAR:                                                      │
-  │  1. Crie um repositório com o MESMO nome do seu usuário          │
-  │     (ex.: github.com/seu-usuario/seu-usuario).                   │
-  │  2. Coloque este README.md na raiz dele.                         │
-  │  3. Copie também a pasta  assets/  (banner + logos) para a raiz. │
-  │  4. Substitua os campos marcados com  «...»  pelos seus dados.   │
-  └────────────────────────────────────────────────────────────────┘
--->
-
 <div align="center">
 
-  <img src="assets/banner-github.png" alt="Panel Pro — software de operações para delivery" width="100%" />
+<img src="assets/banner.svg" width="100%" alt="Rafael Santos — desenvolvimento web, design e atenção aos detalhes" />
 
-  <br /><br />
+<br /><br />
 
-  <!-- Logo com troca automática claro/escuro -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-mark-panel.png" width="72" />
-    <img src="assets/logo-mark-gold.png" alt="Panel Pro" width="72" />
-  </picture>
+**Desenvolvedor web em formação · Designer · Criador de produtos digitais**
 
-  <h1>Olá, eu sou Rafael Santos</h1>
+Transformo problemas do cotidiano em ferramentas práticas,<br />
+com atenção à experiência de uso e aos detalhes visuais.
 
-  <p><b>Desenvolvedor(a) e criador(a) da Panel Pro</b> — software de operações para quem vive de delivery.</p>
-
-  <a href="https://github.com/RafsplayDev"><img src="https://img.shields.io/badge/GitHub-111110?style=for-the-badge&logo=github&logoColor=BA8331" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/«seu-linkedin»"><img src="https://img.shields.io/badge/LinkedIn-111110?style=for-the-badge&logo=linkedin&logoColor=BA8331" alt="LinkedIn" /></a>
-  <a href="mailto:«seu@email.com»"><img src="https://img.shields.io/badge/Email-111110?style=for-the-badge&logo=gmail&logoColor=BA8331" alt="Email" /></a>
+[Conheça o Precifica](https://precifica.dropcolor.com.br/tutorial) · [Vamos conversar](mailto:rafsplayofc@gmail.com)
 
 </div>
 
 <br />
 
-## Sobre mim
+## Um pouco sobre mim
 
-Gosto de transformar operação bagunçada em software claro e rápido. Hoje meu foco é construir a **Panel Pro** — repensando as ferramentas que um delivery usa de verdade, todo dia. Fora do código, «algo seu aqui».
+Sou Rafael Santos, estudante de **Técnico em Desenvolvimento de Sistemas no Senac**, com formação complementar em design gráfico e identidade visual. Construo projetos próprios para colocar o aprendizado em prática e desenvolver soluções que sejam úteis de verdade.
 
-|  |  |
-| :-- | :-- |
-| **Construindo** | Panel Pro |
-| **Função** | Full-stack & Produto |
-| **Base** | Brasil |
-| **Foco** | Delivery & operações |
+Gosto de trabalhar na conexão entre **interface, lógica e experiência de uso**: organizar informações, simplificar tarefas e cuidar da hierarquia visual, da consistência e do acabamento de cada tela.
+
+Estou buscando minha **primeira oportunidade em desenvolvimento**, especialmente em front-end ou em um estágio com espaço para aprender e contribuir.
+
+<br />
+
+## O que levo para os projetos
+
+| Interface & design | Desenvolvimento & produto |
+| :--- | :--- |
+| Atenção à hierarquia visual, aos espaçamentos e à legibilidade. | Construção de interfaces com JavaScript, React e Next.js. |
+| Formação em design gráfico e identidade visual. | Integração de APIs e persistência de dados. |
+| Cuidado com consistência e clareza nos fluxos de uso. | Transformação de necessidades do cotidiano em funcionalidades. |
+| Interesse em tornar tarefas complexas mais intuitivas. | Aprendizado prático, evolução contínua e atenção aos detalhes. |
+
+<br />
+
+## Ferramentas que uso
+
+**Interfaces** &nbsp; JavaScript · React · Next.js · HTML · CSS  
+**Integrações e dados** &nbsp; APIs · PostgreSQL · Supabase · Mercado Pago  
+**Versionamento** &nbsp; Git — conhecimentos básicos
+
+Meu aprendizado acontece principalmente construindo: conectando telas, regras de negócio, dados e integrações em projetos próprios.
+
+<br />
+
+## Projeto em destaque
+
+<a href="https://precifica.dropcolor.com.br/tutorial"><img src="assets/precifica.svg" width="100%" alt="Precifica — calculadora de preços para impressão 3D. Custos, parâmetros e controle." /></a>
+
+<br />
+
+O **Precifica** é uma calculadora intuitiva de preços para peças impressas em 3D. Desenvolvi a ferramenta para reunir os parâmetros que influenciam uma cobrança e oferecer mais controle sobre a formação do preço.
+
+### O que a ferramenta considera
+
+- **Materiais:** cadastro de filamentos e parâmetros de consumo.
+- **Operação:** consumo e tarifa de energia, além da depreciação da impressora.
+- **Preço de venda:** markup e taxas de marketplaces.
+- **Uso do serviço:** integração com a **API do Mercado Pago** para cobrar a assinatura.
+
+### Meu papel
+
+Atuo na construção do produto, no desenvolvimento da interface, na organização dos campos e das regras de cálculo e na integração da cobrança de assinaturas. O projeto reúne duas coisas que valorizo: **clareza visual e utilidade prática**.
+
+**As taxas dos marketplaces entram no cálculo do preço da peça; o Mercado Pago é usado para cobrar a assinatura do serviço.**
+
+→ **[Ver o tutorial e conhecer o Precifica](https://precifica.dropcolor.com.br/tutorial)**
 
 <br />
 
 ---
 
 <div align="center">
-  <sub>O PROJETO EM DESTAQUE</sub>
-  <h2>Panel Pro</h2>
-  <p><i>“Tudo o que um delivery realmente usa, repensado.”</i></p>
-</div>
 
-A **Panel Pro** é uma plataforma brasileira de operações para delivery. A ideia é direta: reunir as funcionalidades que um delivery *realmente usa* no dia a dia — repensadas para serem o mais práticas e otimizadas possível — e tornar um software de qualidade acessível a qualquer empresa, não só às grandes redes.
+**Uma boa interface começa entendendo quem vai usá-la.**
 
-![Premium](https://img.shields.io/badge/Premium-BA8331?style=flat-square&labelColor=BA8331&color=BA8331)
-![Minimalista](https://img.shields.io/badge/Minimalista-3C3C36?style=flat-square)
-![Moderno](https://img.shields.io/badge/Moderno-3C3C36?style=flat-square)
-![Qualidade acessível](https://img.shields.io/badge/Qualidade%20acess%C3%ADvel-BA8331?style=flat-square&labelColor=BA8331&color=BA8331)
+<sub>Rafael Santos · Desenvolvimento web & design</sub>
 
-### O que o painel faz
-
-| Módulo | O que resolve |
-| :-- | :-- |
-| **Pedidos** | Entrada de pedidos em tempo real, do balcão ao delivery, em um fluxo só. |
-| **Cozinha** | A cozinha enxerga o que preparar e em que ordem — sem papel, sem correria. |
-| **Entregas** | Despache entregadores e acompanhe cada rota até a porta do cliente. |
-| **Cardápio** | Gestão de cardápio, preços e disponibilidade em segundos. |
-
-<br />
-
-> ### A promessa
-> **Tudo o que um delivery realmente usa, repensado.**
-> Gerencie pedidos, cozinha e entregadores em um só painel — rápido, claro e pensado para a operação real.
->
-> **Rápido** · ações em um toque, sem telas de espera &nbsp;•&nbsp; **Claro** · status por cor, nada de ruído &nbsp;•&nbsp; **Operação real** · feito para o balcão cheio, não para o slide.
-
-<br />
-
-### Uma amostra do painel <sub>· valores ilustrativos</sub>
-
-| Pedidos hoje | Ticket médio | Tempo médio |
-| :--: | :--: | :--: |
-| **128** ▲ 12% | **R$ 62,40** ▲ 4% | **28 min** |
-
-<br />
-
----
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-mark-panel.png" width="28" />
-    <img src="assets/logo-mark-gold.png" alt="" width="28" />
-  </picture>
-  <br />
-  <sub>Perfil construído com o design system da <b>Panel&nbsp;Pro</b>.</sub>
 </div>
