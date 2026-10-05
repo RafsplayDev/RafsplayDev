@@ -71,6 +71,14 @@ Atuo na construção do produto, no desenvolvimento da interface, na organizaç�
 
 <br />
 
+## Também construí o PanelPro
+
+O **[PanelPro](https://panelpro.app.br)** reúne cardápio digital e recursos de gestão para restaurantes, como cadastro de produtos, estatísticas de vendas e cálculo de entregas. O sistema está em uso real em uma pizzaria.
+
+Atuo no desenvolvimento e na evolução do produto, cuidando da interface, da organização dos fluxos e das funcionalidades. Essa experiência me ajuda a conectar **design e programação às necessidades de quem usa o sistema no dia a dia**.
+
+<br />
+
 ---
 
 <div align="center">
